@@ -1,5 +1,5 @@
 <p align="center">
- <img src="img/LITBanner400x100.png">
+ <img src="img/LITAnki.png">
 </p>
 
 Table of Contents
