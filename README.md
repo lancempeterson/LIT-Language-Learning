@@ -1,4 +1,6 @@
-# Lost In Translation
+<p align="center">
+ <img src="img/LITBanner400x100.png">
+</p>
 
 Table of Contents
 
