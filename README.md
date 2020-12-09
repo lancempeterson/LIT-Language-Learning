@@ -9,6 +9,7 @@ Table of Contents
   * [Japanese LIT 3](#Japanese-LIT-3)
   * [Japanese LIT 4](#Japanese-LIT-4)
   * [Japanese LIT 5](#Japanese-LIT-5)
+  * [Japanese LIT 6](#Japanese-LIT-6)
 
 
 ## Intro: What is Lost In Translation?
@@ -31,7 +32,7 @@ Welcome to the LIT plan for getting started with the Japanese language. Japanese
 
 A common problem that myself and many others have experienced in learning Japanese was that there was no structured plan to get started.
 
-**Introducing the 5 Steps of LIT**
+**Introducing the 6 Steps of LIT**
 
 These steps can act as a scaffolding of sorts to set you up for a life of true immersion and comprehension of Japanese language. Each level includes a deck(s) of flash cards to be used in the Anki spaced repetition system. This is what I believe to be the most effective way to learn and retain a huge amount of information in your head.
 
@@ -55,12 +56,17 @@ For those not familiar: JLPT is a standardized series of Japanese language profi
 
 ### Japanese LIT 4
 
-* LIT 4. *JLPT Tango N3* Deck
-* LIT 4. *Dictionary Vocab* Deck
+* LIT 4. *JLPT Tango N3 (Part 1)* Deck
 
 ### Japanese LIT 5
 
-* LIT 5. *JLPT Tango N2* Deck
+* LIT 5. *Dictionary Vocab* Deck
+* LIT 5. *JLPT Tango N3 (Part 2)* Deck
+
+### Japanese LIT 6
+
+* LIT 6. *JLPT Tango N2 (Part 1)* Deck
+* LIT 6. *JLPT Tango N2 (Part 2)* Deck
 
 ---
 If you find some value in this content and want to show your appreciation then feel free to buy me a coffee! :)
