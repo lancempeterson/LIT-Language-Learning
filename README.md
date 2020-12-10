@@ -1,5 +1,5 @@
 <p align="center">
- <img src="img/LITGithub.png">
+ <img src="img/LITBannerLarge.png">
 </p>
 
 Table of Contents
