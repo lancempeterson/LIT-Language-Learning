@@ -5,7 +5,7 @@
 Table of Contents
 
 - [Intro: What is Lost In Translation?](#Intro:-What-is-Lost-In-Translation)
-- [LIT Japanese](#LIT-Japanese-🇯🇵)
+- [LIT Japanese](#LIT-Japanese)
   * [Japanese LIT 1](#Japanese-LIT-1)
   * [Japanese LIT 2](#Japanese-LIT-2)
   * [Japanese LIT 3](#Japanese-LIT-3)
@@ -24,9 +24,9 @@ As of now, I am only offering instruction for the beginning steps of learning th
 
 ---
 
-## LIT Japanese 🇯🇵
+## LIT Japanese
 
-**Lost In Translation - Japanese Language**
+**Lost In Translation - Japanese Language 🇯🇵**
 
 Welcome to the LIT plan for getting started with the Japanese language. Japanese can be a very rewarding language to learn!
 
