@@ -26,9 +26,9 @@ As of now, I am only offering instruction for the beginning steps of learning th
 
 ## LIT Japanese
 
-**Lost In Translation - Japanese Language**
+**Lost In Translation - Japanese Language 🇯🇵**
 
-Welcome to the LIT plan for getting started with the Japanese language. Japanese can be a very rewarding language to learn! 🇯🇵
+Welcome to the LIT plan for getting started with the Japanese language. Japanese can be a very rewarding language to learn!
 
 **Simple Steps to Start**
 
