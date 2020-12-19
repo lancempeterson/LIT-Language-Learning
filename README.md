@@ -77,4 +77,4 @@ If you find some value in this content and want to show your appreciation then f
 
 ---
 Keywords:
-Lost In Translation, LIT, LIT language learning, JLPT Tango N5 Deck, JLPT Tango N4 Deck, JLPT Tango N3 Deck, JLPT Tango N2 Deck, How to learn Japanese, How to start learning Japanese, How to learn Hiragana, How to learn Katakana, The LIT plan
+Lost In Translation, LIT, LIT language learning, JLPT Tango N5 Deck, JLPT Tango N4 Deck, JLPT Tango N3 Deck, JLPT Tango N2 Deck, How to learn Japanese, How to start learning Japanese, How to learn Hiragana, How to learn Katakana, The LIT plan, Japanese fluency
